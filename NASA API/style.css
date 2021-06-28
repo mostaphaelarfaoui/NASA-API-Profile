@@ -1,0 +1,30 @@
+body {
+  box-sizing: border-box;
+  background: #eceee5;
+  font-family: sans-serif;
+}
+#app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.control-center__title {
+  color: #a64e43;
+  text-align: center;
+  font-family: cursive;
+  font-size: 50px;
+  margin: 0;
+}
+.date {
+  text-align: center;
+  margin: 0;
+}
+.image {
+  width: 50%;
+}
+
+.picture-name {
+  text-align: center;
+  color: #6a7b9c;
+}
